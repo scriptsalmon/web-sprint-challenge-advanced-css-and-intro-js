@@ -23,7 +23,13 @@ Commit your code regularly and meaningfully.
 Please answer the following questions below, you may edit the readme file to include your answers below the question.
 
 1. How would you describe acessibility on the web to someone new to programming?
+
+    Accessability in web devlopment is designing content for all people. For programmers, creating content that works for people who have physical disabilities, mental impediments, and a range of technical hardware/software is what it means to create accessible web material. It is essential for devs and orgs who want to create websites and web tools that are welcoming and allow people use their products and services.
+
 2. Talk about 3 different things you can do to ensure your website is accessible. 
+
+    1. Alternative Text 
+
 3. How would you explain the concept of a variable to someone new to programming?
 4. What is the purpose of using functions in code?
 5. How do you access a key inside of an object inside of an array?
