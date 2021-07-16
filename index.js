@@ -288,11 +288,12 @@ Use addArtist to do the following:
 
 Example: addArtist(artists) should return the artists array with the above object added to the end of the array. */
 
-function addArtist(/*Your Code Here*/) {
-  /*Your Code Here*/
+function addArtist(array) {
+  array.push({id: '20', name: 'Alan Van Wadd', years: '1993 - 2021', genre: 'Web Design', nationality: 'American', bio: 'Alan Van Wadd, often referred to as the "guy who draws like sht" is a new age architect. He programs instead of polluting the art scene with his disturbing stick figurines.'});
+  return array;
 }
 
-
+console.log('task 6', addArtist(artists));
 
 /* 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 Task 7: 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
 Use lotsOfArt to do the following: 
