@@ -28,11 +28,23 @@ Please answer the following questions below, you may edit the readme file to inc
 
 2. Talk about 3 different things you can do to ensure your website is accessible. 
 
-    1. Alternative Text 
+    1. Alternative Text - Alt text is important for people who cannot see the website, and must use a screen reader to verbalize the information on the screen to them. It also makes available to technologies that do not see images, such as search engines, the content you are populating a particular space with.
+
+    2. Transcripts - To address the issue of content being unavailable for those who cannot hear, providing audio in the form of text allows access to the media with words. 
+
+    3. No mouse? Rats! - Wait, not to worry, we have another way of making our website accessible by way of keyboard inputs. Designing our layouts to be crawlable with arrow keys allows people without mice or who have disabilities to use assistive tech, like speech input, to traverse through our media. 
 
 3. How would you explain the concept of a variable to someone new to programming?
+
+    A variable is a container that stores information. They may be given descriptive labels and used in a program.   
+
 4. What is the purpose of using functions in code?
+
+    Functions are a block of code designed to perform a task. They allow us to reuse and place blocks which can be invoked, either by a user event - like a button click - or called from code, or activated from within (self invoked).
+
 5. How do you access a key inside of an object inside of an array?
+
+    A key inside of an object can be accessed with dot or bracket notation. To access an object inside of an array, we must select the index number its data is contained by. array[index][key] or array[index].key
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade. 
 

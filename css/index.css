@@ -166,6 +166,7 @@ button:hover{
     }	
     nav span{
         border-left:2px solid #626262;
+        margin-top: 3%;
     }
     img {	
         height:29rem;	
